@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\bin\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DailyReport\DailyReport\obj\Debug\netcoreapp3.1\DailyReport.genruntimeconfig.cache

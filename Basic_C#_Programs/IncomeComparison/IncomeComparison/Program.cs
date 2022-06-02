@@ -21,10 +21,12 @@ namespace IncomeComparison
             int hoursWorked2 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Annual salary of Person 1:");
-            int salary1 = Convert.ToInt32(Console.ReadLine());
+            int salary1 = hourlyRate * hoursWorked;
+            Console.WriteLine(salary1);
 
             Console.WriteLine("Annual salary of Person 2:");
-            int salary2 = Convert.ToInt32(Console.ReadLine());
+            int salary2 = hourlyRate2 * hoursWorked2;
+            Console.WriteLine(salary2);
 
             Console.WriteLine("Does Person 1 make more money than Person 2?");
             bool moreMoney = salary1 > salary2;

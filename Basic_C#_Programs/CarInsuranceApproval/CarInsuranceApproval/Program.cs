@@ -16,7 +16,7 @@ namespace CarInsuranceApproval
             int speedingTickets = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Qualified?");
-            bool qualified = (age > 15 && hadDUI == false && speedingTickets <= 3);
+            bool qualified = age > 15 && hadDUI == false && speedingTickets <= 3;
             Console.WriteLine(qualified);
             Console.ReadLine();
         }

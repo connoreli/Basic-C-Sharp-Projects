@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\bin\Debug\netcoreapp3.1\PackageExpress.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\PackageExpress\PackageExpress\obj\Debug\netcoreapp3.1\PackageExpress.genruntimeconfig.cache

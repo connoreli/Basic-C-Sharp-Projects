@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\bin\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MathAndComparisonOperators\MathAndComparisonOperators\obj\Debug\netcoreapp3.1\MathAndComparisonOperators.genruntimeconfig.cache

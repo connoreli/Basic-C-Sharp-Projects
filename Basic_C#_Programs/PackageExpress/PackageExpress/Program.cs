@@ -33,7 +33,7 @@ namespace PackageExpress
 
                 else
                 {
-                    decimal quote = (packageWidth * packageHeight * packageLength) * (packageWeight) / (100);
+                    decimal quote = packageWidth * packageHeight * packageLength * packageWeight / 100;
                     Console.WriteLine("Your estimated total for shipping this package is: $" + quote + ". Thank you!");
                 }
             }

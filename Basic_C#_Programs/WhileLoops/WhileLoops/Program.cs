@@ -35,7 +35,13 @@ namespace WhileLoops
                     case 77:
                         Console.WriteLine("You guessed 77. You are correct! Great job!");
                         isGuessed = true;
+                        while (true)
+                        {
+                            Console.WriteLine("YOU ARE THE BEST OF ALL TIME!");
+                            break;
+                        }
                         break;
+
                     default:
                         Console.WriteLine("You are wrong.");
                         Console.WriteLine("Guess a number!");

@@ -6,23 +6,46 @@ namespace WhileLoops
     {
         static void Main(string[] args)
         {
-            int i = 0;
-            while (i < 5)
-            {
-                Console.WriteLine(i);
-                i++;
-                break;
-            }
-            
+            Console.WriteLine("Guess a number!");
+            int number = Convert.ToInt32(Console.ReadLine());
+            bool isGuessed = number == 77;
 
-            int x = 0;
             do
             {
-                Console.WriteLine(i);
-                i++;
-                break;
-            }
-            while (x < 5);
+                switch (number)
+                {
+                    case 14:
+                        Console.WriteLine("You guessed 14. Try again!");
+                        Console.WriteLine("Guess a number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+
+                    case 22:
+                        Console.WriteLine("You guessed 22. Try again!");
+                        Console.WriteLine("Guess a number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+
+                    case 76:
+                        Console.WriteLine("You guessed 76. Try again!");
+                        Console.WriteLine("Guess a number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+
+                    case 77:
+                        Console.WriteLine("You guessed 77. You are correct! Great job!");
+                        isGuessed = true;
+                        break;
+                    default:
+                        Console.WriteLine("You are wrong.");
+                        Console.WriteLine("Guess a number!");
+                        number = Convert.ToInt32(Console.ReadLine());
+                        break;
+                }
+            } 
+            while (!isGuessed);
+
+            Console.Read();
         }
     }
 }

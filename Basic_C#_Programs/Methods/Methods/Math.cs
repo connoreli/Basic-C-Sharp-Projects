@@ -6,24 +6,22 @@ namespace Methods
 {
     public class Math
     {
-        int secretNumber = 4;
-        int theirNumber = Convert.ToInt32(Console.ReadLine());
-        public Math add()
+        public int Add(int theirNumber, int secretNumber)
         {
             int newNumber = theirNumber + secretNumber;
-            Console.WriteLine(theirNumber + " plus our secret number is " + newNumber);
+            return newNumber;
         }
 
-        public Math subtract()
+        public int Subtract(int theirNumber, int secretNumber)
         {
             int newNumber = theirNumber - secretNumber;
-            Console.WriteLine(theirNumber + " minus our secret number is " + newNumber);
+            return newNumber;
         }
 
-        public Math multiply()
+        public int Multiply(int theirNumber, int secretNumber)
         {
-            int newNumber = theirNumber + secretNumber;
-            Console.WriteLine(theirNumber + " times our secret number is " + newNumber);
+            int newNumber = theirNumber * secretNumber;
+            return newNumber;
         }
     }
 }

@@ -6,22 +6,19 @@ namespace Methods
 {
     public class Math
     {
-        public int Add(int theirNumber, int secretNumber)
+        public int Add(int theirNumber)
         {
-            int newNumber = theirNumber + secretNumber;
-            return newNumber;
+            return theirNumber + 5;
         }
 
-        public int Subtract(int theirNumber, int secretNumber)
+        public int Subtract(int theirNumber)
         {
-            int newNumber = theirNumber - secretNumber;
-            return newNumber;
+            return theirNumber - 5;
         }
 
-        public int Multiply(int theirNumber, int secretNumber)
+        public int Multiply(int theirNumber)
         {
-            int newNumber = theirNumber * secretNumber;
-            return newNumber;
+            return theirNumber * 5;
         }
     }
 }

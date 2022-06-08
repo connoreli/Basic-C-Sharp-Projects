@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\bin\Debug\netcoreapp3.1\exceptionHandling.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\exceptionHandling\exceptionHandling\obj\Debug\netcoreapp3.1\exceptionHandling.genruntimeconfig.cache

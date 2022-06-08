@@ -1,0 +1,5 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.csproj.CoreCompileInputs.cache

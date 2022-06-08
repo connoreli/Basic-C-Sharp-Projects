@@ -7,14 +7,22 @@ namespace moreMethods
         static void Main(string[] args)
         {
             Math math = new Math();
-
             Console.WriteLine("Please Enter two numbers, one at a time.");
             int theirNumber = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("This one is optional.");
-            int optionalNumber = Convert.ToInt32(Console.ReadLine());
 
-            int addition = math.myMethod(theirNumber, optionalNumber = 1);
-            Console.WriteLine(addition);
+            try
+            {
+                int optionalNumber = Convert.ToInt32(Console.ReadLine());
+                int result = math.myMethod(theirNumber, optionalNumber);
+                Console.WriteLine("Result of " + theirNumber + " and " + optionalNumber + " passed into the method: " + result);
+            }
+            catch(Exception)
+            {
+                int result = math.myMethod(theirNumber);
+                Console.WriteLine("Result of " + theirNumber + " passed into the method: " + result);
+            }
+            Console.ReadLine();
         }
     }
 }

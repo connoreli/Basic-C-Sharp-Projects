@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\bin\Debug\netcoreapp3.1\mainMethod.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\mainMethod\mainMethod\obj\Debug\netcoreapp3.1\mainMethod.csproj.AssemblyReference.cache

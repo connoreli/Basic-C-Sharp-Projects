@@ -15,7 +15,7 @@ namespace mainMethod
             int Addition = math.myMethod(theirNumber, secretNumber);
             Console.WriteLine(Addition);
 
-            Console.WriteLine("Pick a decimal between 2 and 3");
+            Console.WriteLine("Enter a decimal");
             decimal theirDecimal = Convert.ToDecimal(Console.ReadLine());
             decimal secretDecimal = 5;
 
@@ -24,7 +24,6 @@ namespace mainMethod
 
             Console.WriteLine("Enter a number:");
             string theirString = Console.ReadLine();
-            string secretString = "10";
 
             int Multiplication = math.myMethod(theirString);
 

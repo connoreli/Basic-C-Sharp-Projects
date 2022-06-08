@@ -60,11 +60,53 @@ namespace sixPartAssignment
 
             // step 5
 
-            List<string> Strings = new List<string>() { "Connor", "Bennett", "Ryan", "Seth", "Seth" };
+            List<string> Strings = new List<string>() { "Connor", "Bennett", "Seth", "Seth" };
             Console.WriteLine(Strings);
             Console.WriteLine("Search for a user!");
             string Search = Console.ReadLine();
-            foreach (string tring in Strings)
+            foreach (string String in Strings)
+            {
+                if (Search == "Connor")
+                {
+                    Console.WriteLine("0");
+                }
+                else if (Search == "Bennett")
+                {
+                    Console.WriteLine("1");
+                }
+                else if (Search == "Seth")
+                {
+                    Console.WriteLine("2");
+                }
+                else if (Search == "Seth")
+                {
+                    Console.WriteLine("3");
+                }
+                else Console.WriteLine("Input aint on the list, bud.");
+            }
+
+            // step 6
+
+            List<string> Strings1 = new List<string>() { "Connor", "Bennett", "Seth", "Seth" };
+            foreach(string Stringgss in Strings1)
+            {
+                if ("Connor" == Strings1[0])
+                {
+                    Console.WriteLine(Strings1[0] + " has not already appeared in the list.");
+                }
+                else if ("Bennett" == Strings1[1])
+                {
+                    Console.WriteLine(Strings1[1] + " has not already appeared in the list.");
+                }
+                else if ("Seth" == Strings1[2])
+                {
+                    Console.WriteLine(Strings1[2] + " has not already appeared in the list.");
+                }
+                else if ("Seth" == Strings1[2] && "Seth" == Strings[3])
+                {
+                    Console.WriteLine(Strings1[1] + " has already appeared in the list.");
+                }
+            }
 
             Console.ReadLine();
         } 

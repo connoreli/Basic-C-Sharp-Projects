@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\bin\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Iteration\Iteration\obj\Debug\netcoreapp3.1\Iteration.genruntimeconfig.cache

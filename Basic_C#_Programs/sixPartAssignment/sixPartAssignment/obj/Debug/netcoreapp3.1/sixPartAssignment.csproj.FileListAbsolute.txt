@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\bin\Debug\netcoreapp3.1\sixPartAssignment.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\sixPartAssignment\sixPartAssignment\obj\Debug\netcoreapp3.1\sixPartAssignment.genruntimeconfig.cache

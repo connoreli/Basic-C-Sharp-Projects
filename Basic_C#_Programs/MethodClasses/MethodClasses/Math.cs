@@ -15,7 +15,6 @@ namespace MethodClasses
             Console.WriteLine("The first number plus the second number is " + result);
 
             Console.WriteLine("The second number is" + num2);
-            Console.ReadLine();
         }
     }
 }

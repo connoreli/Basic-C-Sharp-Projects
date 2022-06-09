@@ -8,10 +8,14 @@ namespace MethodClasses
     {
         public void myMethod(int num1, int num2)
         {
+            num1 = 1;
+            num2 = 5;
+
             int result = num1 + num2;
             Console.WriteLine("The first number plus the second number is " + result);
 
             Console.WriteLine("The second number is" + num2);
+            Console.ReadLine();
         }
     }
 }

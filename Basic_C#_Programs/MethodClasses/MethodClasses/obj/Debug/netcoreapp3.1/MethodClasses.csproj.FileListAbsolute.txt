@@ -3,3 +3,12 @@ C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Program
 C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.AssemblyInfoInputs.cache
 C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.AssemblyInfo.cs
 C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\bin\Debug\netcoreapp3.1\MethodClasses.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\bin\Debug\netcoreapp3.1\MethodClasses.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\bin\Debug\netcoreapp3.1\MethodClasses.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\bin\Debug\netcoreapp3.1\MethodClasses.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\bin\Debug\netcoreapp3.1\MethodClasses.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\bin\Debug\netcoreapp3.1\MethodClasses.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodClasses\MethodClasses\obj\Debug\netcoreapp3.1\MethodClasses.genruntimeconfig.cache

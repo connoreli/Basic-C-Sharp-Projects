@@ -6,14 +6,12 @@ namespace MethodClasses
 {
     class Math
     {
-        public int myMethod(int num1, int num2)
+        public void myMethod(int num1, int num2)
         {
-            int operation = num1 * 5;
-            Console.WriteLine(num2);
-            num1 = 5;
-            num2 = 10;
-            int numbers = myMethod(5, 10);
-            int addition = myMethod(num1, num2);
+            int result = num1 + num2;
+            Console.WriteLine("The first number plus the second number is " + result);
+
+            Console.WriteLine("The second number is" + num2);
         }
     }
 }

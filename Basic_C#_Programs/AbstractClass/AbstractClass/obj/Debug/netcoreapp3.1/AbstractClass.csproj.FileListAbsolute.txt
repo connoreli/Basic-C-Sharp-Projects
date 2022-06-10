@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\AbstractClass\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.genruntimeconfig.cache

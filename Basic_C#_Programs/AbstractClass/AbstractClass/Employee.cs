@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TwentyOne
+namespace AbstractClass
 {
-    public class TwentyOneGame : Game
+    public class Employee: Person
     {
-        public override void Play()
+        public override void SayName()
         {
             throw new NotImplementedException();
         }

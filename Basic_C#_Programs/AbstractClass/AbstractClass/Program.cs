@@ -6,11 +6,16 @@ namespace AbstractClass
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            Employee<T> employee = new Employee<T>();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
 
             employee.SayName();
+
+            foreach (int i in List<Things>)
+            {
+                Console.WriteLine(i + "");
+            }
         }
 
     }

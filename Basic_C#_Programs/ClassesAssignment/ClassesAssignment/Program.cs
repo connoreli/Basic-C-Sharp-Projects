@@ -12,6 +12,8 @@ namespace ClassesAssignment
             int num = Convert.ToInt32(Console.ReadLine());
             int division = math.myMethod(num);
             Console.WriteLine(num + " divided by 2 equals " + division);
-        }
+
+            Console.ReadLine();
+        } 
     }
 }

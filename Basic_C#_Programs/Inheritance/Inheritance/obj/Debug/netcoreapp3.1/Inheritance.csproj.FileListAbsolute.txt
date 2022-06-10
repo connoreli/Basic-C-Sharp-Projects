@@ -1,0 +1,4 @@
+C:\Users\conno\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\conno\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\conno\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache

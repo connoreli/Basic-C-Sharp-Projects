@@ -1,0 +1,14 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\bin\Debug\netcoreapp3.1\parseEnums.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\bin\Debug\netcoreapp3.1\parseEnums.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\bin\Debug\netcoreapp3.1\parseEnums.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\bin\Debug\netcoreapp3.1\parseEnums.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\bin\Debug\netcoreapp3.1\parseEnums.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\bin\Debug\netcoreapp3.1\parseEnums.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\obj\Debug\netcoreapp3.1\parseEnums.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\obj\Debug\netcoreapp3.1\parseEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\obj\Debug\netcoreapp3.1\parseEnums.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\obj\Debug\netcoreapp3.1\parseEnums.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\obj\Debug\netcoreapp3.1\parseEnums.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\obj\Debug\netcoreapp3.1\parseEnums.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\obj\Debug\netcoreapp3.1\parseEnums.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\parseEnums\parseEnums\obj\Debug\netcoreapp3.1\parseEnums.genruntimeconfig.cache

@@ -3,3 +3,12 @@ C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Program
 C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
 C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
 C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache

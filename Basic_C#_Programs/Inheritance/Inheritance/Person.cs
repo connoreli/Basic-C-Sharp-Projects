@@ -6,10 +6,11 @@ namespace Inheritance
 {
     public class Person
     {
+        public string FirstName = "Connor";
+        public string LastName = "Eliason";
+
         public void SayName()
         {
-            string FirstName = "Connor";
-            string LastName = "Eliason";
 
             string FullName = FirstName + " " + LastName;
             Console.WriteLine("Name: " + FullName);

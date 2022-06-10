@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Inheritance
 {
-    class Employee: Person
+    public class Employee: Person
     {
         int ID = 00001;
     }

@@ -4,11 +4,8 @@ using System.Text;
 
 namespace AbstractClass
 {
-    public class Employee: Person, IQuittable
+    public class Employee: Person
     {
-        int employeeID1 = 0001;
-        int employeeID2 = 0002;
-
 
         public static bool operator ==(Employee employeeID1, Employee employeeID2)
         {
@@ -23,11 +20,6 @@ namespace AbstractClass
         public override void SayName()
         {
             Console.WriteLine(FirstName + " " + LastName);
-        }
-
-        public virtual void Quit()
-        {
-            
         }
     }
 }

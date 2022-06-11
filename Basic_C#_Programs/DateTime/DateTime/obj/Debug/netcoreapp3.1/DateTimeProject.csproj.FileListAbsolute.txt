@@ -1,0 +1,13 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimeProject.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimeProject.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimeProject.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimeProject.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimeProject.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTimeProject.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimeProject.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimeProject.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimeProject.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimeProject.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimeProject.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTimeProject.genruntimeconfig.cache

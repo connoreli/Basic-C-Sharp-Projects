@@ -22,12 +22,12 @@ namespace AbstractClass
 
         public override void SayName()
         {
-            throw new NotImplementedException();
+            Console.WriteLine(FirstName + " " + LastName);
         }
 
         public virtual void Quit()
         {
-            throw new NotImplementedException();
+            
         }
     }
 }

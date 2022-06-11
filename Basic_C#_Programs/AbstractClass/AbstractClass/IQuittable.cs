@@ -8,8 +8,7 @@ namespace AbstractClass
     {
         void Quit()
         {
-            IQuittable quittable = new IQuittable();
-            quittable.Quit();
+            Console.WriteLine("I quit!");
         }
     }
 }

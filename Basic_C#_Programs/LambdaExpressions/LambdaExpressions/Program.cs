@@ -49,7 +49,16 @@ namespace LambdaExpressions
             emp10.firstName = "Jimmy";
             emp10.lastName = "Johnson";
 
-            foreach (Employees employees in emp1, emp2, emp3,)
+            foreach (string firstName in Employees)
+            {
+                if (string firstName == "Joe")
+                {
+                   
+                }
+            }
+
+
+        }
 
         struct Employees
         {

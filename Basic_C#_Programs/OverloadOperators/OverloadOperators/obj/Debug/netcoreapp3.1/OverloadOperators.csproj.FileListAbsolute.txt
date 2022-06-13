@@ -1,0 +1,13 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\netcoreapp3.1\OverloadOperators.exe
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\netcoreapp3.1\OverloadOperators.deps.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\netcoreapp3.1\OverloadOperators.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\netcoreapp3.1\OverloadOperators.runtimeconfig.dev.json
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\netcoreapp3.1\OverloadOperators.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\bin\Debug\netcoreapp3.1\OverloadOperators.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\netcoreapp3.1\OverloadOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\netcoreapp3.1\OverloadOperators.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\netcoreapp3.1\OverloadOperators.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\netcoreapp3.1\OverloadOperators.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\netcoreapp3.1\OverloadOperators.dll
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\netcoreapp3.1\OverloadOperators.pdb
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\OverloadOperators\OverloadOperators\obj\Debug\netcoreapp3.1\OverloadOperators.genruntimeconfig.cache

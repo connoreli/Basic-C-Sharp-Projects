@@ -6,13 +6,12 @@ namespace OverloadOperators
     {
         static void Main(string[] args)
         {
-            Employee ID = int ID;
-            Employee employee1 = new Employee(ID)
+            Employee employee1 = new Employee()
             {
                 ID = 00001
             };
 
-            Employee employee2 = new Employee(ID)
+            Employee employee2 = new Employee()
             {
                 ID = 00002
             };

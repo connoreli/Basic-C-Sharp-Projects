@@ -2,21 +2,22 @@
 
 namespace OverloadOperators
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
+            Employee ID = int ID;
+            Employee employee1 = new Employee(ID)
+            {
+                ID = 00001
+            };
+
+            Employee employee2 = new Employee(ID)
+            {
+                ID = 00002
+            };
+
         }
 
-        public static bool operator !=(Employee employee1ID, Employee employee2ID)
-        {
-            return !employee1ID.Equals(employee2ID);
-        }
-        
-        public static bool operator ==(Employee employee1ID, Employee employee2ID)
-        {
-            return employee1ID.Equals(employee2ID);
-        }
     }
 }

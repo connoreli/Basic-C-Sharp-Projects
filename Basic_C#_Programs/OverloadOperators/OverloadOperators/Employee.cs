@@ -6,7 +6,14 @@ namespace OverloadOperators
 {
     public class Employee
     {
-        int employee1ID = 00001;
-        int employee2ID = 00002;
+        public static bool operator !=(Employee employee1, Employee employee2)
+        {
+            return employee1.ID !== employee2.ID;
+        }
+
+        public static bool operator ==(Employee employee1, Employee employee2)
+        {
+            return employee1.ID == employee2.ID;
+        }
     }
 }

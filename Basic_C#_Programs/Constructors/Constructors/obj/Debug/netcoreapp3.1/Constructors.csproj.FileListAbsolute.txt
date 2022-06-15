@@ -1,0 +1,5 @@
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\Basic_C#_Programs\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache

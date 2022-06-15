@@ -33,7 +33,7 @@ namespace Constructors
 
             }
 
-            public newEmployee(string fName, string lName):this(fName, lName)
+            public newEmployee(string fName, string lName)
             {
                 this.lName = lName;
                 this.fName = fName;

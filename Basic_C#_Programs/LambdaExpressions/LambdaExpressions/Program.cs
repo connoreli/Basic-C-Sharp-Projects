@@ -7,8 +7,9 @@ namespace LambdaExpressions
     {
         static void Main(string[] args)
         {
+            Employees employees = new Employees();
             Employees emp1, emp2, emp3, emp4, emp5, emp6, emp7, emp8, emp9, emp10;
-
+            
             emp1.empID = 000001;
             emp1.firstName = "Joe";
             emp1.lastName = "Johnson";
@@ -49,18 +50,31 @@ namespace LambdaExpressions
             emp10.firstName = "Jimmy";
             emp10.lastName = "Johnson";
 
-            foreach (string firstName in Employees)
+            List<Employees> myEmployees = new List<Employees>() { emp1, emp2, emp3, emp4, emp5, emp6, emp7, emp8, emp9, emp10 };
+
+            foreach (string firstName in myEmployees)
             {
-                if (string firstName == "Joe")
+                if (employees.firstName == "Joe")
                 {
-                   
+                    List<Employees> joeEmployees = new List<Employees>();
                 }
             }
+
+            foreach (string firstName in myEmployees(i => (i.firstName == "Joe")))
+            {
+                List < Employees > joe = new List<Employees>() { i };
+            }
+
+            foreach (int ID in myEmployees(i => (i.ID < 5)))
+            {
+                List<Employees> moreThanFive = new List<Employees>() { i };
+            }
+
 
 
         }
 
-        struct Employees
+        public struct Employees
         {
             public int empID;
             public string firstName;

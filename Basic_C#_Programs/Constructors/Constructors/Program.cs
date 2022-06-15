@@ -6,18 +6,12 @@ namespace Constructors
     {
         static void Main(string[] args)
         {
-            
+            var NewPlayer = new Player("Jesse");
+            const string CasinoName = "Grand Casino";
         }
-
-        class constructorChain
+        class Player()
         {
-            private const int x;
-            private var j;
-
-            public constructorChain() : this(10, 55)
-            {
-
-            }
+            
         }
     }
 }

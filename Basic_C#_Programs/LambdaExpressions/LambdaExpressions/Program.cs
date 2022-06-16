@@ -53,20 +53,27 @@ namespace LambdaExpressions
 
             List<Employees> myEmployees = new List<Employees>() { emp1, emp2, emp3, emp4, emp5, emp6, emp7, emp8, emp9, emp10 };
 
-            //foreach (string firstName in employees)
-            //{
-            //    if (employees.firstName == "Joe")
-            //    {
-            //        List<Employees> joeEmployees = new List<Employees>();
-            //    }
-            //}
+            foreach (var v in myEmployees)
+            {
+                if (employees.firstName == "Joe")
+                {
+                    List<Employees> joeEmployees = new List<Employees>();
+                }
+            }
 
             List<Employees> joe = myEmployees.Where(x => x.firstName == "Joe").ToList();
 
             List<Employees> moreThanFive = myEmployees.Where(x => x.empID > 5).ToList();
 
-            Console.WriteLine(joe);
-            Console.WriteLine(moreThanFive);
+            foreach (var v in joe)
+            {
+                Console.WriteLine(joe);
+            }
+
+            foreach (var v in moreThanFive)
+            {
+                Console.WriteLine(moreThanFive);
+            }
             
             Console.ReadLine();
 

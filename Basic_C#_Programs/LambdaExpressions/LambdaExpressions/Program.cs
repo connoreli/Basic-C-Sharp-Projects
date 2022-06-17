@@ -55,9 +55,9 @@ namespace LambdaExpressions
 
             foreach (var v in myEmployees)
             {
-                if (employees.firstName == "Joe")
+                if (v.firstName == "Joe")
                 {
-                    List<Employees> joeEmployees = new List<Employees>();
+                    List<Employees> joeEmployees = new List<Employees>() { v };
                 }
             }
 
